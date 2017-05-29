@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#pycharm生成文件
+.idea/
+
 # C extensions
 *.so
 
